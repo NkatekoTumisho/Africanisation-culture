@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Homepage - Africanisation in Culture</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Africanisation in Culture</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about us.html">About Us</a></li>
+        <li><a href="definition.html">Definition and Significance</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome to Africanisation in Culture</h2>
+      <div class="image-gallery">
+        <img src="MakhadziSA_Twitter-1.jpg" alt="African landscape" class="gallery-image">
+        <img src="limpopo-south-africa-venda-tribe-african-dance.jpg" alt="African dance" class="gallery-image">
+        <img src="Tsonga-Dancers.webp" alt="Tsonga Dancers" class="gallery-image">
+        <img src="DAp6ZzkXUAA3lx_.jpg" alt="African festival" class="gallery-image">
+      </div>
+      <p>Africanisation is a cultural movement that influences various aspects of society. Explore our site to learn more.</p>
+      <button onclick="window.location.href='definition.html'">Learn More</button>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 Africanisation in Culture. All rights reserved.</p>
+    <p>Follow us on:</p>
+    <a href="https://facebook.com/yourpage" target="_blank">Facebook</a>
+    <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a>
+  </footer>
+</body>
+</html>
